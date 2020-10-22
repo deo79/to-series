@@ -1,0 +1,21 @@
+{
+  "name": "to-series",
+  "version": "0.0.4",
+  "description": "Control flow library for running functions in order in a promise-like fashion.  Provides some nice semantics for readability and a result object that describes the operations.",
+  "main": "lib/to-series.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "keywords": [
+    "control flow",
+    "series",
+    "async",
+    "promises"
+  ],
+  "author": "Daniel Logue",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  }
+}
