@@ -1,6 +1,6 @@
 {
   "name": "to-series",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "homepage": "https://github.com/deo79/to-series",
   "description": "Control flow library for running functions in order in a promise-like fashion.  Provides some nice semantics for readability and a result object that describes the operations.",
   "main": "lib/to-series.js",
